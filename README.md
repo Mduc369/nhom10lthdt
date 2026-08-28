@@ -9,9 +9,10 @@ I: Khái niệm và giới thiệu về lập trình hướng đối tượng
 Gồm có:
 + Lập trình tuyến tính
 + Lập trình cấu trúc
-+ 
 3. Lớp đối tượng
 4. Sự trừu tượng hóa
++ Theo chức năng
++ Theo dữ liệu
 5. Sự đóng gói
 6. Sự kế thừa
 7. Thành phần private và public
